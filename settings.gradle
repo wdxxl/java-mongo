@@ -1,2 +1,3 @@
 include 'hello_world'
 include 'mongo_auth'
+include 'insert_doc'
