@@ -1,6 +1,0 @@
-subprojects{
-}
-
-wrapper {
-    gradleVersion = '2.8'
-}
